@@ -42,6 +42,22 @@
   orcid: 0009-0009-8395-6545
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/ACCESS.2025.3578047
+  title: Subjective and Objective Quality Assessments of AI-Generated Images for Language
+    E-Learning
+  authors:
+  - Chibuike Onuoha
+  - Vu Hai Dang
+  - Nguyen Duc Nam
+  - Truong Thu Huong
+  - Pham Ngoc Nam
+  - Truong Cong Thang
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/g9p7h9
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.comcom.2024.01.001
   title: Scalable and resilient 360-degree-video adaptive streaming over HTTP/2 against
     sudden network drops
