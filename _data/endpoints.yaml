@@ -1,0 +1,23 @@
+- id: filwork.tail79916c.ts.net
+  description: Self-hosted overleaf instance 
+  title: 'Overleaf'
+  publisher: HTTP
+  date: 'online'
+  link: http://filwork.tail79916c.ts.net
+  tags:
+    - service
+- id: filwork.tail79916c.ts.net:3000
+  description: Self-hosted chatbot using Open-webui and Ollama 
+  title: 'Chat FIL'
+  publisher: HTTP
+  date: 'online'
+  link: http://filwork.tail79916c.ts.net:3000
+  tags:
+    - service
+- id: training-server.tail419c77.ts.net
+  description: Ubuntu server to code. 
+  title: 'Code server'
+  publisher: SSH
+  date: 'online'
+  tags:
+    - Development
