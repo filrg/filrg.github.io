@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://filrg.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://filrg.github.io/" rel="alternate" type="text/html" /><updated>2025-07-04T08:12:02+00:00</updated><id>https://filrg.github.io/feed.xml</id><title type="html">FIL Research Group</title><subtitle>FILRG is a research group with strong international networks, engaging students and experts in cutting-edge research. Our focus areas include immersive multimedia, networking, and smart applications.</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://filrg.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://filrg.github.io/" rel="alternate" type="text/html" /><updated>2025-08-02T10:23:17+00:00</updated><id>https://filrg.github.io/feed.xml</id><title type="html">FIL Research Group</title><subtitle>FILRG is a research group with strong international networks, engaging students and experts in cutting-edge research. Our focus areas include immersive multimedia, networking, and smart applications.</subtitle><entry><title type="html">Join us!</title><link href="https://filrg.github.io/2025/02/08/join-us.html" rel="alternate" type="text/html" title="Join us!" /><published>2025-02-08T00:00:00+00:00</published><updated>2025-08-02T10:16:20+00:00</updated><id>https://filrg.github.io/2025/02/08/join-us</id><content type="html" xml:base="https://filrg.github.io/2025/02/08/join-us.html"><![CDATA[<h1 id="-recruiting-research-members---fil-research-group--ansa-lab">🎯 [RECRUITING RESEARCH MEMBERS] - FIL Research Group | ANSA Lab</h1>
+
+<p><strong>Supervisor:</strong> <a href="https://filrg.github.io/members/thay-nguyen-huu-thanh.html">Assoc. Prof. Nguyen Huu Thanh</a>, School of Electrical and Electronic Engineering, Hanoi University of Science and Technology<br />
+📌 <strong>Application Deadline:</strong> 11:59 PM, August 31, 2025</p>
+
+<h2 id="are-you-a-student-from-cohort-k68-k70-of-the-school-of-electrical-and-electronic-engineering">Are you a student from Cohort K68-K70 of the School of Electrical and Electronic Engineering?</h2>
+
+<p>🔥 Are you passionate about research in communication networks, cloud computing, AI technologies, and cybersecurity?<br />
+🔥 Do you want to participate in academic research projects, gain opportunities to study abroad or work internationally, receive in-depth training, and be mentored by experienced professors and researchers?<br />
+👉 This is your chance!</p>
+
+<h2 id="highlighted-research-directions">HIGHLIGHTED RESEARCH DIRECTIONS</h2>
+
+<p>💡 <strong>Distributed AI</strong>: Researching large-scale AI infrastructure deployment and security in edge-cloud computing environments.<br />
+💡 <strong>Cloud Network Security</strong>: Researching and implementing methods to detect and mitigate DDoS attacks in cloud computing environments.<br />
+💡 <strong>Edge-Cloud Computing</strong>: Researching and implementing optimization algorithms and reinforcement learning to improve the performance of distributed serverless systems.<br />
+💡 <strong>5G/6G Network Slicing</strong>: Researching and developing platforms integrating optimization and reinforcement learning algorithms to optimize resource management in 5G/6G network slicing systems.</p>
+
+<h2 id="benefits-of-joining-the-lab">BENEFITS OF JOINING THE LAB</h2>
+
+<p>🔑 Training and development in research-related skills, career orientation in AI, Large Language Models (LLMs), programming in C/C++ and Python, and technical writing.<br />
+🔑 Access to modern infrastructure for network research purposes.<br />
+🔑 Participation in training courses and seminars on cutting-edge science, technology, and engineering topics hosted by the research group.<br />
+🔑 Opportunities to co-author scientific papers and publish in prestigious conferences and journals.<br />
+🔑 Dedicated support and mentorship from faculty and lab members.<br />
+🔑 Participation in large projects in collaboration with domestic and international companies and organizations.<br />
+🔑 Opportunities for studying abroad or working overseas after graduation.<br />
+🔑 Participation in recreational activities and team-building events designed to foster collaboration and research skills.</p>
+
+<h2 id="requirements">REQUIREMENTS</h2>
+
+<p>📝 Be a student from cohort K68–K70 of the Electronics and Telecommunications major, School of Electrical and Electronic Engineering.<br />
+📝 Have a passion for research, enjoy self-learning and exploration, especially in networking, cloud computing, and AI.<br />
+📝 Be responsible and committed to assigned tasks.<br />
+📝 Be able to read English technical documents (holding certificates like TOEIC, IELTS is a plus).<br />
+📝 Have programming skills in at least one of the following languages: C/C++, Python, Golang, etc.</p>
+
+<h2 id="-bonus-points">🌟 BONUS POINTS</h2>
+
+<p>💯 CPA (Cumulative Point Average) &gt;= 3.0<br />
+💯 Intention to pursue graduate studies abroad or a Master’s degree at HUST<br />
+💯 Basic knowledge in areas such as Machine Learning, Deep Learning, Reinforcement Learning, etc.<br />
+💯 Experience with Linux-based systems and programming: multithreading, network programming, bash scripting.<br />
+💯 Holding international language certificates like IELTS, TOEIC, etc.<br />
+💯 Awards or achievements in high school academic competitions.</p>
+
+<h2 id="application-instructions">APPLICATION INSTRUCTIONS</h2>
+
+<p>📌 <strong>Your application should include:</strong></p>
+<ul>
+  <li>CV (specify your intended research direction)</li>
+  <li>Academic transcript downloaded from the student portal (CTT website)</li>
+</ul>
+
+<p>📧 <strong>Send to:</strong> fil.tuyendung@husteduvn.onmicrosoft.com<br />
+📌 <strong>Email subject line:</strong> <code class="language-plaintext highlighter-rouge">FIL2025_YourName_StudentID</code><br />
+📅 <strong>Deadline:</strong> 11:59 PM, August 31, 2025</p>
+
+<h2 id="-contact--learn-more">📣 Contact &amp; Learn More:</h2>
+
+<ul>
+  <li><strong>Fanpage:</strong> FIL Research Group, ANSA Laboratory</li>
+  <li><strong>Location:</strong> Room E.711, Building C7, School of Electrical and Electronic Engineering, HUST</li>
+  <li><strong>Email:</strong> fil.tuyendung@husteduvn.onmicrosoft.com</li>
+</ul>]]></content><author><name>Ma Viet Duc</name></author><category term="recruitment" /><summary type="html"><![CDATA[🎯 [RECRUITING RESEARCH MEMBERS] - FIL Research Group | ANSA Lab]]></summary></entry></feed>
