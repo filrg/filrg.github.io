@@ -15,6 +15,21 @@
   tags:
   - XR communications
   image: https://ieeexplore.ieee.org/ielx8/6287639/10820123/10870276/graphical_abstract/access-gagraphic-3538802.jpg
+- id: doi:10.1109/ism63611.2024.00013
+  title: Modeling User Quality of Experience in Adaptive Point Cloud Video Streaming
+  authors:
+  - Duc V. Nguyen
+  - Nguyen Long Quang
+  - Tran Thuy Hien
+  - Nguyen Ngoc Huyen
+  - Truong Thu Huong
+  - Pham Ngoc Nam
+  publisher: 2024 International Symposium on Multimedia (ISM)
+  date: '2024-12-11'
+  link: https://doi.org/g9trx5
+  orcid: 0009-0009-8395-6545
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3595916.3626429
   title: Toward Optimal Real-time Dynamic Point Cloud Streaming over Bandwidth-constrained
     Networks
@@ -965,6 +980,22 @@
   date: '2007-06-01'
   link: https://doi.org/fkj592
   orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/fi17070299
+  title: Detecting Emerging DGA Malware in Federated Environments via Variational
+    Autoencoder-Based Clustering and Resource-Aware Client Selection
+  authors:
+  - Ma Viet Duc
+  - Pham Minh Dang
+  - Tran Thu Phuong
+  - Truong Duc Truong
+  - Vu Hai
+  - Nguyen Huu Thanh
+  publisher: Future Internet
+  date: '2025-07-03'
+  link: https://doi.org/g9s4gt
+  orcid: 0000-0002-7354-1524
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/cloudnet62863.2024.10815895
