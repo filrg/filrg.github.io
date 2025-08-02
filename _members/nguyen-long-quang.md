@@ -1,17 +1,16 @@
 ---
 name: Nguyen Long Quang
 image: images/fil/members/nguyen-long-quang.jpg
-role: undergrad
+role: programmer
 affiliation: Hanoi University of Science and Technology
 aliases:
   - Quang Long
   - Long Quang
 links:
-  email: quang.nl214050@sis.hust.edu.vn
+  email: quang.nglong@gmail.com
   google-scholar: pAhKnZQAAAAJ
   home-page: https://quangnguyenlong.github.io
   orcid: 0009-0009-8395-6545
   github: quangnguyenlong
 ---
-
-Quang is currently pursuing the bachelor’s degree with Hanoi University of Science and Technology. He is a Research Assistant with the FIL Research Group, ANSA Laboratory, School of Electronics and Telecommunications. His research interests include video streaming and multimedia processing.
+Quang is a recent graduate with a Bachelor's degree from Hanoi University of Science and Technology. He is currently a Research Assistant at the FIL Research Group, ANSA Laboratory, School of Electrical and Electronic Engineering. His research interests include video streaming and multimedia processing.
