@@ -1,10 +1,9 @@
 ---
-name: Nguyen Long Quang
-image: images/fil/members/nguyen-long-quang.jpg
-role: None
-tag: former-chief-student
+name: Vu Truong An
+image: images/fil/members/vu-truong-an.jpg
+role: undergrad
 description: Kohort 66
 affiliation: Electronics and Telecommunications Engineering, Hanoi University of Science and Technology
 aliases:
-  - Long Quang
+-  Vu Truong An
 ---

@@ -10,25 +10,22 @@ nav:
 ## Meet Our Team of Researchers and Innovators
 Our team is a dynamic blend of faculty and students passionate about immersive multimedia, networking, and smart applications. Together, we drive cutting-edge research and real-world innovation.
 
-{% include section.html %}
+### Professors
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="tag == 'professor'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+### Current students
 
-# 🎉 Life at FIL
+{% include list.html data="members" component="portrait" filter="description == 'Kohort 67'" %}
+{% include list.html data="members" component="portrait" filter="description == 'Kohort 68'" %}
+{% include list.html data="members" component="portrait" filter="description == 'Kohort 69'" %}
+{% include list.html data="members" component="portrait" filter="description == 'Kohort 70'" %}
 
-From research achievements to lab celebrations, our journey is shaped by the people who make it possible. Here's a glimpse into our vibrant community life.
+### Alumni
 
-{% include section.html %}
+{% include list.html data="members" component="portrait" filter="description == 'Kohort 66'" %}
 
-{% capture content %}
+#### Former chief student
+{% include list.html data="members" component="portrait" filter="tag == 'former-chief-student'" %}
 
-{% include figure.html image="images/fil/graduation-2024.jpg" %}
-{% include figure.html image="images/fil/YEP-2025.jpg" %}
-{% include figure.html image="images/fil/8-3-2025.jpg" %}
 
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}

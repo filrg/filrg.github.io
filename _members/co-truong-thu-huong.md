@@ -3,6 +3,7 @@ name: Assoc. Prof. Truong Thu Huong
 image: images/fil/members/co-truong-thu-huong.jpg
 affiliation: Hanoi University of Science and Technology
 role: principal-investigator
+tag: professor
 aliases:
   - Truong Thu Huong
 links:

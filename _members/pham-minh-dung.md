@@ -1,10 +1,9 @@
 ---
-name: Nguyen Long Quang
-image: images/fil/members/nguyen-long-quang.jpg
-role: None
-tag: former-chief-student
+name: Pham Minh Dung
+image: images/fil/members/pham-minh-dung.jpg
+role: undergrad
 description: Kohort 66
 affiliation: Electronics and Telecommunications Engineering, Hanoi University of Science and Technology
 aliases:
-  - Long Quang
+-  Pham Minh Dung
 ---

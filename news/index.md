@@ -1,11 +1,11 @@
 ---
-title: Blog
+title: News
 nav:
   order: 4
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}**Blog**
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}**News**
 
 ## Thoughts, insights, and behind-the-scenes updates from our group  
 Whether it's a technical deep dive or a fun event recap, this is where we share what excites us.

@@ -1,9 +1,29 @@
 ---
-title: Contact
+title: About Us
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: About Us
 ---
+
+# {% include icon.html icon="fa-solid fa-book" %}**History**
+
+
+
+# {% include icon.html icon="fa-solid fa-mug-hot" %} **Life at FIL**
+
+From research achievements to lab celebrations, our journey is shaped by the people who make it possible. Here's a glimpse into our vibrant community life.
+
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/fil/graduation-2024.jpg" %}
+{% include figure.html image="images/fil/YEP-2025.jpg" %}
+{% include figure.html image="images/fil/8-3-2025.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
 
 # {% include icon.html icon="fa-regular fa-envelope" %}**Contact**
 

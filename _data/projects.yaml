@@ -1,6 +1,19 @@
+- title: DynamicPointCloudSubjectiveTest
+  subtitle: a dynamic point cloud (Volumetric video) subjective test environment
+  group: volumetric-video
+  image: images/photo.jpg
+  link: https://github.com/QuangNguyenLong/DynamicPointCloudSubjectiveTest
+  description: a Unity- based environment where the point cloud video is imported and rendered in real-time by utilizing Miniply . The environment allows real-time import of point cloud frames written under binary little-endian and binary big-endian with a consistent framerate of 30FPS. Moreover, to render the point cloud videos on VR Headset, a point shader that utilizes Unity Single-Pass Instanced rendering is  implement.
+  repo: QuangNguyenLong/DynamicPointCloudSubjectiveTest
+  tags:
+    - software
+    - Unity
+    - C#
+    - pointcloud
+    
 - title: PCPREP
   subtitle: a point cloud preparation tool
-  group: featured
+  group: volumetric-video
   image: images/fil/projects/pcprep-logo.png
   link: https://github.com/filrg/pcprep
   description: A robust set of tools for preprocessing and analyzing point cloud data, with a focus on modularity, scalability, and ease of integration.
@@ -8,9 +21,39 @@
   tags:
     - library
     - software
+    - C
+    - C++
+    - pointcloud
+- title: PCC
+  subtitle: a point cloud compression tool
+  group: volumetric-video
+  image: images/photo.jpg
+  link: https://github.com/filrg/pcc
+  description: A lightweight, modular C/C++ library for real-time point cloud compression and streaming, meant for fast decoding for low-latency streaming and playback, supports multiple codecs, minimal dependencies, easy to integrate.
+  repo: filrg/pcc
+  tags:
+    - library
+    - software
+    - C
+    - C++
+    - pointcloud
+    - WASM
+- title: 360 degree DASH
+  subtitle: 360° Video Streaming with DASH and VR Support 
+  image: images/photo.jpg
+  link: https://filrg.github.io/vr360-dash-demo/
+  description: This project demonstrates how to stream 360° video content using dash.js for MPEG-DASH playback and A-Frame for WebVR integration.
+  group: 360-video
+  repo: filrg/vr360-dash-demo
+  tags:
+    - software
+    - javascripts
+    - html
+    - 360-video
+    - a-Frame
 # - title: Cool Dataset
 #   subtitle: a subtitle
-#   group: featured
+#   group: volumetric-video
 #   image: images/photo.jpg
 #   link: https://github.com/
 #   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -20,7 +63,7 @@
 
 # - title: Cool Package
 #   subtitle: a subtitle
-#   group: featured
+#   group: volumetric-video
 #   image: images/photo.jpg
 #   link: https://github.com/
 #   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

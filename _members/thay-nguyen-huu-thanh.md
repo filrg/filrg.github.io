@@ -3,6 +3,7 @@ name: Assoc. Prof. Nguyen Huu Thanh
 image: images/fil/members/thay-nguyen-huu-thanh.jpg
 affiliation: Hanoi University of Science and Technology
 role: principal-investigator
+tag: professor
 aliases:
   - Nguyen Huu Thanh
 links:

@@ -1,10 +1,9 @@
 ---
-name: Nguyen Long Quang
-image: images/fil/members/nguyen-long-quang.jpg
-role: None
-tag: former-chief-student
+name: Phung Quang Thai
+image: images/fil/members/phung-quang-thai.jpg
+role: undergrad
 description: Kohort 66
 affiliation: Electronics and Telecommunications Engineering, Hanoi University of Science and Technology
 aliases:
-  - Long Quang
+-  Phung Quang Thai
 ---
