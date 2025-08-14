@@ -16,16 +16,17 @@ Our team is a dynamic blend of faculty and students passionate about immersive m
 
 ### Current students
 
-{% include list.html data="members" component="portrait" filter="description == 'Kohort 67'" %}
-{% include list.html data="members" component="portrait" filter="description == 'Kohort 68'" %}
-{% include list.html data="members" component="portrait" filter="description == 'Kohort 69'" %}
-{% include list.html data="members" component="portrait" filter="description == 'Kohort 70'" %}
+{% include list.html data="members" component="portrait" filter="description == 'Cohort 67'" %}
+{% include list.html data="members" component="portrait" filter="description == 'Cohort 68'" %}
+{% include list.html data="members" component="portrait" filter="description == 'Cohort 69'" %}
+{% include list.html data="members" component="portrait" filter="description == 'Cohort 70'" %}
+
+### Former chief student
+{% include list.html data="members" component="portrait" filter="tag == 'former-chief-student'" %}
 
 ### Alumni
 
-{% include list.html data="members" component="portrait" filter="description == 'Kohort 66'" %}
+{% include list.html data="members" component="portrait" filter="description == 'Cohort 66'" %}
 
-#### Former chief student
-{% include list.html data="members" component="portrait" filter="tag == 'former-chief-student'" %}
 
 
