@@ -1,1 +1,1 @@
-Sitemap: https://filrg.github.io/sitemap.xml
+Sitemap: http://ansalab.edu.vn/sitemap.xml
