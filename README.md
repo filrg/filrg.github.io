@@ -5,6 +5,6 @@
 
   # filrg's Website
 
-  Visit **[www.ansalab.edu.vn](http://www.ansalab.edu.vn)** 🚀
+  Visit **[www.ansalab.edu.vn](https://www.ansalab.edu.vn)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
