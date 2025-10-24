@@ -5,14 +5,17 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}**Team**
+# {% include icon.html icon="fa-solid fa-users" %} **Team**
 
 ## Meet Our Team of Researchers and Innovators
 Our team is a dynamic blend of faculty and students passionate about immersive multimedia, networking, and smart applications. Together, we drive cutting-edge research and real-world innovation.
 
-### Professors
+---
 
+### Professors
 {% include list.html data="members" component="portrait" filter="tag == 'professor'" %}
+
+---
 
 ### Academic Staff
 {%
@@ -22,71 +25,53 @@ Our team is a dynamic blend of faculty and students passionate about immersive m
   icon="fa-solid fa-user-graduate"
   flip=true
   style="primary"
-  onclick="toggleAcademicStaff()"
+  onclick="toggleSection('staff')"
 %}
-<div id="staff" style="display:none; margin-top: 1.5rem;">
-{% include list.html data="members" component="portrait" filter="description == 'Academic Staff'"%}
-</div>
-<script>
-function toggleStaff() {
-  const section = document.getElementById('staff');
-  const isHidden = section.style.display === 'none';
-  section.style.display = isHidden ? 'block' : 'none';
-}
-</script>
-###Grad
 
+<div id="staff" style="display:none; margin-top: 1.5rem;">
+  {% include list.html data="members" component="portrait" filter="description == 'Academic Staff'" %}
+</div>
+
+---
+
+### Graduate Students
 {%
   include button.html
   link="#"
-  text="Graduate Student"
+  text="Graduate Students"
   icon="fa-solid fa-user-graduate"
   flip=true
   style="primary"
-  onclick="toggleStudents()"
+  onclick="toggleSection('graduate')"
 %}
 
 <div id="graduate" style="display:none; margin-top: 1.5rem;">
-{% include list.html data="members" component="portrait" filter="role == 'grad'"%}
+  {% include list.html data="members" component="portrait" filter="role == 'grad'" %}
 </div>
 
-<script>
-function toggleGradStudent() {
-  const section = document.getElementById('graduate');
-  const isHidden = section.style.display === 'none';
-  section.style.display = isHidden ? 'block' : 'none';
-}
-</script>
+---
 
-###Undergrad 
+### Undergraduate Students
 {%
   include button.html
   link="#"
-  text="Undergraduate Student"
+  text="Undergraduate Students"
   icon="fa-solid fa-user-graduate"
   flip=true
   style="primary"
-  onclick="toggleStudents()"
+  onclick="toggleSection('undergraduate')"
 %}
 
 <div id="undergraduate" style="display:none; margin-top: 1.5rem;">
-
-
-{% include list.html data="members" component="portrait" filter="description == 'Cohort 67'" %}
-{% include list.html data="members" component="portrait" filter="description == 'Cohort 68'" %}
-{% include list.html data="members" component="portrait" filter="description == 'Cohort 69'" %}
-{% include list.html data="members" component="portrait" filter="description == 'Cohort 70'" %}
+  {% include list.html data="members" component="portrait" filter="description == 'Cohort 67'" %}
+  {% include list.html data="members" component="portrait" filter="description == 'Cohort 68'" %}
+  {% include list.html data="members" component="portrait" filter="description == 'Cohort 69'" %}
+  {% include list.html data="members" component="portrait" filter="description == 'Cohort 70'" %}
 </div>
 
-<script>
-function toggleStudents() {
-  const section = document.getElementById('undergraduate');
-  const isHidden = section.style.display === 'none';
-  section.style.display = isHidden ? 'block' : 'none';
-}
-</script>
+---
 
-### "Alumni"
+### Alumni
 {%
   include button.html
   link="#"
@@ -94,25 +79,22 @@ function toggleStudents() {
   icon="fa-solid fa-user-graduate"
   flip=true
   style="primary"
-  onclick="toggleStudents()"
+  onclick="toggleSection('alumni')"
 %}
 
-
 <div id="alumni" style="display:none; margin-top: 1.5rem;">
-{% include list.html data="members" component="portrait" filter="description == 'Cohort 66'" %}
+  {% include list.html data="members" component="portrait" filter="description == 'Cohort 66'" %}
 </div>
 
+---
+
 <script>
-function toggleAlumni(){
-  const section = document.getElementById('"alumni"');
-  const isHidden = section.style.display === 'none';
-  section.style.display = isHidden ? 'block' : 'none';
+function toggleSection(id) {
+  const section = document.getElementById(id);
+  if (!section) return;
+  section.style.display = (section.style.display === 'none' || section.style.display === '') 
+    ? 'block' 
+    : 'none';
 }
 </script>
-
-
-
-
-
-
 
