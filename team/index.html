@@ -498,12 +498,14 @@
   
 
   <section class="background" data-size="page">
-    <h1 id="team">
-<i class="icon fa-solid fa-users"></i><strong>Team</strong>
+    <h1 id="-team">
+<i class="icon fa-solid fa-users"></i> <strong>Team</strong>
 </h1>
 
 <h2 id="meet-our-team-of-researchers-and-innovators">Meet Our Team of Researchers and Innovators</h2>
 <p>Our team is a dynamic blend of faculty and students passionate about immersive multimedia, networking, and smart applications. Together, we drive cutting-edge research and real-world innovation.</p>
+
+<hr>
 
 <h3 id="professors">Professors</h3>
 
@@ -563,6 +565,8 @@
   </a>
 </div>
 
+<hr>
+
 <h3 id="academic-staff">Academic Staff</h3>
 
 <div class="button-wrapper">
@@ -575,7 +579,7 @@
   </div>
 
 <div id="staff" style="display:none; margin-top: 1.5rem;">
-
+  
 
 
 
@@ -622,27 +626,22 @@
 
 
 </div>
-<script>
-function toggleStaff() {
-  const section = document.getElementById('staff');
-  const isHidden = section.style.display === 'none';
-  section.style.display = isHidden ? 'block' : 'none';
-}
-</script>
 
-<p>###Grad</p>
+<hr>
+
+<h3 id="graduate-students">Graduate Students</h3>
 
 <div class="button-wrapper">
     <a class="button" href="/" data-style="primary" data-flip="" aria-label="fa-solid fa-user-graduate">
       <i class="icon fa-solid fa-user-graduate"></i>
       
-        <span>Graduate Student</span>
+        <span>Graduate Students</span>
       
     </a>
   </div>
 
 <div id="graduate" style="display:none; margin-top: 1.5rem;">
-
+  
 
 
 
@@ -690,29 +689,21 @@ function toggleStaff() {
 
 </div>
 
-<script>
-function toggleGradStudent() {
-  const section = document.getElementById('graduate');
-  const isHidden = section.style.display === 'none';
-  section.style.display = isHidden ? 'block' : 'none';
-}
-</script>
+<hr>
 
-<p>###Undergrad</p>
+<h3 id="undergraduate-students">Undergraduate Students</h3>
 
 <div class="button-wrapper">
     <a class="button" href="/" data-style="primary" data-flip="" aria-label="fa-solid fa-user-graduate">
       <i class="icon fa-solid fa-user-graduate"></i>
       
-        <span>Undergraduate Student</span>
+        <span>Undergraduate Students</span>
       
     </a>
   </div>
 
 <div id="undergraduate" style="display:none; margin-top: 1.5rem;">
-
-
-
+  
 
 
 
@@ -1180,7 +1171,7 @@ function toggleGradStudent() {
   
 
 
-
+  
 
 
 
@@ -1648,7 +1639,7 @@ function toggleGradStudent() {
   
 
 
-
+  
 
 
 
@@ -2081,7 +2072,7 @@ function toggleGradStudent() {
   
 
 
-
+  
 
 
 
@@ -2090,15 +2081,9 @@ function toggleGradStudent() {
 
 </div>
 
-<script>
-function toggleStudents() {
-  const section = document.getElementById('undergraduate');
-  const isHidden = section.style.display === 'none';
-  section.style.display = isHidden ? 'block' : 'none';
-}
-</script>
+<hr>
 
-<h3 id="alumni">“Alumni”</h3>
+<h3 id="alumni">Alumni</h3>
 
 <div class="button-wrapper">
     <a class="button" href="/" data-style="primary" data-flip="" aria-label="fa-solid fa-user-graduate">
@@ -2110,7 +2095,7 @@ function toggleStudents() {
   </div>
 
 <div id="alumni" style="display:none; margin-top: 1.5rem;">
-
+  
 
 
 
@@ -2403,11 +2388,15 @@ function toggleStudents() {
 
 </div>
 
+<hr>
+
 <script>
-function toggleAlumni(){
-  const section = document.getElementById('"alumni"');
-  const isHidden = section.style.display === 'none';
-  section.style.display = isHidden ? 'block' : 'none';
+function toggleSection(id) {
+  const section = document.getElementById(id);
+  if (!section) return;
+  section.style.display = \(section.style.display === 'none' \|| section.style.display === '') 
+    ? 'block' 
+    : 'none';
 }
 </script>
   </section>
