@@ -57,6 +57,21 @@
   orcid: 0009-0009-8395-6545
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/MCE.2024.3519777
+  title: 'QoE Assessment for Prompt-based Videos: Acceptability and Quality Factors'
+  authors:
+  - Chibuike Onuoha
+  - Shihao Luo
+  - Truong Cong Thang
+  - Vu Hai Dang
+  - Nguyen Duc Nam
+  - Truong Thu Huong
+  publisher: IEEE Consumer Electronics Magazine
+  date: '2024-01-01'
+  link: https://doi.org/g89jn2
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/ACCESS.2025.3578047
   title: Subjective and Objective Quality Assessments of AI-Generated Images for Language
     E-Learning
@@ -85,21 +100,6 @@
   publisher: Computer Communications
   date: '2024-02-01'
   link: https://doi.org/g89jnz
-  orcid: 0000-0002-6428-8539
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/MCE.2024.3519777
-  title: 'QoE Assessment for Prompt-based Videos: Acceptability and Quality Factors'
-  authors:
-  - Chibuike Onuoha
-  - Shihao Luo
-  - Truong Cong Thang
-  - Vu Hai Dang
-  - Nguyen Duc Nam
-  - Truong Thu Huong
-  publisher: IEEE Consumer Electronics Magazine
-  date: '2024-01-01'
-  link: https://doi.org/g89jn2
   orcid: 0000-0002-6428-8539
   plugin: orcid.py
   file: orcid.yaml
@@ -982,6 +982,39 @@
   orcid: 0000-0002-6428-8539
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/mapr67746.2025.11133843
+  title: Unsupervised Malicious Domain Detection Using Auto-Encoder Models with Reconstruction
+    Error
+  authors:
+  - Ma Viet Duc
+  - Truong Duc Truong
+  - Cao Thi Mai Anh
+  - Vu Hai
+  - Nguyen Huu Thanh
+  publisher: 2025 International Conference on Multimedia Analysis and Pattern Recognition
+    (MAPR)
+  date: '2025-08-14'
+  link: https://doi.org/g95wqq
+  orcid: 0009-0004-3329-2529
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4108/eetinis.v12i3.8720
+  title: 'FedNDA: Enhancing Federated Learning with Noisy Client Detection and Robust
+    Aggregation'
+  authors:
+  - Tuan Dung Kieu
+  - Charles Fonbonne
+  - Trung-Kien Tran
+  - Thi-Lan Le
+  - Hai Vu
+  - Huu-Thanh Nguyen
+  - Thanh-Hai Tran
+  publisher: EAI Endorsed Transactions on Industrial Networks and Intelligent Systems
+  date: '2025-07-03'
+  link: https://doi.org/g95wqr
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/fi17070299
   title: Detecting Emerging DGA Malware in Federated Environments via Variational
     Autoencoder-Based Clustering and Resource-Aware Client Selection
@@ -995,7 +1028,7 @@
   publisher: Future Internet
   date: '2025-07-03'
   link: https://doi.org/g9s4gt
-  orcid: 0000-0002-7354-1524
+  orcid: 0009-0004-3329-2529
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/cloudnet62863.2024.10815895
@@ -2015,6 +2048,22 @@
   date: '2001-01-01'
   link: https://doi.org/dqgjfz
   orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3763400.3763445
+  title: Enabling Lightweight Split Inference for Real-Time Detection in Embedded
+    Traffic Cameras
+  authors:
+  - Duc Viet Ma
+  - Truong Duc Truong
+  - Anh Thi Mai Cao
+  - Anh Tuan Nguyen
+  - Hai Vu
+  - Thanh Huu Nguyen
+  publisher: Proceedings of the 20th Asian Internet Engineering Conference
+  date: '2025-11-24'
+  link: https://doi.org/g97cmr
+  orcid: 0009-0004-3329-2529
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
