@@ -57,8 +57,54 @@
   orcid: 0009-0009-8395-6545
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.4108/eetinis.132.12274
+  title: A Novel Hybrid Transformer for RUL Prediction in Predictive Maintenance for
+    Smart Manufacturing
+  authors:
+  - Huu Du Nguyen
+  - Xuan Hoang Nguyen
+  - Bich Thuong Dao
+  - Cong Ngon Do
+  - Thu Huong Truong
+  publisher: EAI Endorsed Transactions on Industrial Networks and Intelligent Systems
+  date: '2026-05-20'
+  link: https://doi.org/hb5gcp
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eswa.2025.130237
+  title: 'HyperShield: A personalized hypernetwork-based defense against poisoning
+    attacks in federated learning for healthcare'
+  authors:
+  - Bich Thuong Dao
+  - Viet Duc Ma
+  - Truong An Vu
+  - Huu Thanh Nguyen
+  - Kim-Phuc Tran
+  - Thu Huong Truong
+  publisher: Expert Systems with Applications
+  date: '2026-03-01'
+  link: https://doi.org/g99tx2
+  orcid: 0009-0004-3329-2529
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2026.3726528
+  title: Hybrid Energy-Time Efficient Reinforcement Learning for UAV Coverage Path
+    Planning Under Wind Disturbance
+  authors:
+  - Thanh Lam Tran
+  - Thi Quynh Anh Mai
+  - Changha Lee
+  - Truong Thu Huong
+  - Chan-Hyun Youn
+  publisher: IEEE Access
+  date: '2026-01-01'
+  link: https://doi.org/hcg8k4
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/MCE.2024.3519777
-  title: 'QoE Assessment for Prompt-based Videos: Acceptability and Quality Factors'
+  title: 'QoE Assessment for Prompt-Based Videos: Acceptability and Quality Factors'
   authors:
   - Chibuike Onuoha
   - Shihao Luo
@@ -67,7 +113,7 @@
   - Nguyen Duc Nam
   - Truong Thu Huong
   publisher: IEEE Consumer Electronics Magazine
-  date: '2024-01-01'
+  date: '2025-09-01'
   link: https://doi.org/g89jn2
   orcid: 0000-0002-6428-8539
   plugin: orcid.py
@@ -195,6 +241,18 @@
   publisher: IEEE Access
   date: '2023-01-01'
   link: https://doi.org/g89jn9
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36227/techrxiv.21780704.v1
+  title: 2 against Sudden Network Drops
+  authors:
+  - Hung Nguyen Viet
+  - Thu Huong Truong
+  - Thang Truong
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2022-12-30'
+  link: https://doi.org/hbv4db
   orcid: 0000-0002-6428-8539
   plugin: orcid.py
   file: orcid.yaml
@@ -433,13 +491,13 @@
   title: A data-driven approach for Network Intrusion Detection and Monitoring based
     on Kernel Null Space
   authors:
-  - Truong Huong
-  - Ta Bac
-  - Quoc Nguyen
-  - Huu Nguyen
-  - Kim Tran
+  - Truong Thu Huong
+  - Ta Phuong Bac
+  - Quoc Thong Nguyen
+  - Huu Du Nguyen
+  - Kim Phuc Tran
   publisher: EAI Endorsed Transactions on Industrial Networks and Intelligent Systems
-  date: '2019-08-30'
+  date: '2019-08-07'
   link: https://doi.org/g89jps
   orcid: 0000-0002-6428-8539
   plugin: orcid.py
@@ -737,8 +795,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:1859-1531
-  title: "ISSN 1859-1531 (Print) | T\u1EA1p ch\xED Khoa h\u1ECDc v\xE0 C\xF4ng ngh\u1EC7\
-    \ | The ISSN Portal"
+  title: "ISSN 1859-1531 - T\u1EA1p ch\xED Khoa h\u1ECDc v\xE0 C\xF4ng ngh\u1EC7 (\u0110\
+    \u1EA1i h\u1ECDc \u0110\xE0 N\u1EB5ng)"
   authors: []
   publisher: ''
   date: ''
@@ -982,19 +1040,99 @@
   orcid: 0000-0002-6428-8539
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/mapr67746.2025.11133843
-  title: Unsupervised Malicious Domain Detection Using Auto-Encoder Models with Reconstruction
-    Error
+- id: doi:10.1109/ICOIN68469.2026.11480581
+  title: Energy-Aware Distributed Data-Center GPU Scheduling via Constrained Hybrid
+    SAC with Adaptive Frequency
   authors:
   - Ma Viet Duc
+  - Nguyen Dang Duong
+  - Nguyen Duc Huy
+  - Nguyen Duc Tuyen
+  - Nguyen Tai Hung
+  - Nguyen Huu Thanh
+  publisher: 2026 40th International Conference on Information Networking (ICOIN)
+  date: '2026-01-14'
+  link: https://doi.org/hb4n45
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LNET.2026.3653831
+  title: Network Slice Embedding With Flexible Configurations in 5G Networks and Beyond
+  authors:
+  - Quang-Trung Luu
+  - Do-Minh Tran
+  - Minh-Thanh Nguyen
+  - Michel Kieffer
+  - Dinh Thai Hoang
+  - Tai-Hung Nguyen
+  - Huu-Thanh Nguyen
+  - Van-Dinh Nguyen
+  publisher: IEEE Networking Letters
+  date: '2026-01-01'
+  link: https://doi.org/hbkdvt
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNSM.2026.3680673
+  title: 'Network Slicing With Flexible VNF Order: A Branch-and-Bound Approach'
+  authors:
+  - Quang-Trung Luu
+  - Minh-Thanh Nguyen
+  - Tuan-Anh Do
+  - Michel Kieffer
+  - Tai Hung Nguyen
+  - Huu Thanh Nguyen
+  - Van-Dinh Nguyen
+  publisher: IEEE Transactions on Network and Service Management
+  date: '2026-01-01'
+  link: https://doi.org/hbv4dd
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15625/2525-2518/22956
+  title: Service function chain embedding in centralized and distributed data centers
+    - A comparison
+  authors:
+  - Ma Viet Duc
+  - Nguyen Trung Kien
+  - Dao Dai Hiep
+  - Nguyen Tai Hung
+  - Nguyen Huu Thanh
+  publisher: Vietnam Journal of Science and Technology
+  date: '2026-01-05'
+  link: https://doi.org/hbjndg
+  orcid: 0009-0004-3329-2529
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3763400.3763445
+  title: Enabling Lightweight Split Inference for Real-Time Detection in Embedded
+    Traffic Cameras
+  authors:
+  - Duc Viet Ma
   - Truong Duc Truong
-  - Cao Thi Mai Anh
+  - Anh Thi Mai Cao
+  - Anh Tuan Nguyen
+  - Hai Vu
+  - Thanh Huu Nguyen
+  publisher: Proceedings of the 20th Asian Internet Engineering Conference
+  date: '2025-11-24'
+  link: https://doi.org/g97cmr
+  orcid: 0009-0004-3329-2529
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/fi17070299
+  title: Detecting Emerging DGA Malware in Federated Environments via Variational
+    Autoencoder-Based Clustering and Resource-Aware Client Selection
+  authors:
+  - Ma Viet Duc
+  - Pham Minh Dang
+  - Tran Thu Phuong
+  - Truong Duc Truong
   - Vu Hai
   - Nguyen Huu Thanh
-  publisher: 2025 International Conference on Multimedia Analysis and Pattern Recognition
-    (MAPR)
-  date: '2025-08-14'
-  link: https://doi.org/g95wqq
+  publisher: Future Internet
+  date: '2025-07-03'
+  link: https://doi.org/g9s4gt
   orcid: 0009-0004-3329-2529
   plugin: orcid.py
   file: orcid.yaml
@@ -1015,68 +1153,34 @@
   orcid: 0000-0002-7354-1524
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3390/fi17070299
-  title: Detecting Emerging DGA Malware in Federated Environments via Variational
-    Autoencoder-Based Clustering and Resource-Aware Client Selection
+- id: doi:10.1109/ATC67618.2025.11268771
+  title: Resource Allocation for Open Radio Access Networks Using Reinforcement Learning
+  authors:
+  - Duc-Tien Nguyen
+  - Trong-Tin Nguyen
+  - Tai Hung Nguyen
+  - Nguyen Huu Thanh
+  - Quang-Trung Luu
+  publisher: 2025 International Conference on Advanced Technologies for Communications
+    (ATC)
+  date: '2025-10-16'
+  link: https://doi.org/hbggtm
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MAPR67746.2025.11133843
+  title: Unsupervised Malicious Domain Detection Using Auto-Encoder Models with Reconstruction
+    Error
   authors:
   - Ma Viet Duc
-  - Pham Minh Dang
-  - Tran Thu Phuong
   - Truong Duc Truong
+  - Cao Thi Mai Anh
   - Vu Hai
   - Nguyen Huu Thanh
-  publisher: Future Internet
-  date: '2025-07-03'
-  link: https://doi.org/g9s4gt
-  orcid: 0009-0004-3329-2529
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/cloudnet62863.2024.10815895
-  title: 'FaaSt: A Latency-Aware Serverless Scheme for Edge-Cloud Environments'
-  authors:
-  - Kien Nguyen
-  - Hiep Dao
-  - Tung Nguyen
-  - Frank Loh
-  - Nguyen Huu Thanh
-  - "Tobias Ho\u03B2feld"
-  publisher: 2024 IEEE 13th International Conference on Cloud Networking (CloudNet)
-  date: '2024-11-27'
-  link: https://doi.org/g89kwd
-  orcid: 0000-0002-7354-1524
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/icce62051.2024.10634695
-  title: An Extended OVN Architecture for End-to-End QoS Guarantee in Network Slicing
-  authors:
-  - Thanh-Hai Pham
-  - Tuan-Anh Nguyen
-  - Dong Tran-Van
-  - Trung Vu-Thanh
-  - Nguyen Tai Hung
-  - Nguyen Huu Thanh
-  publisher: 2024 Tenth International Conference on Communications and Electronics
-    (ICCE)
-  date: '2024-07-31'
-  link: https://doi.org/g89kwf
-  orcid: 0000-0002-7354-1524
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/icce62051.2024.10634714
-  title: Evaluation of Deployment Models for Microservices in an Edge-based Serverless
-    Environment
-  authors:
-  - Kien Nguyen
-  - Frank Loh
-  - "Tobias Ho\xDFfeld"
-  - Le Phuc Lai
-  - Truong Thu Huong
-  - Pham Ngoc Nam
-  - Nguyen Huu Thanh
-  publisher: 2024 Tenth International Conference on Communications and Electronics
-    (ICCE)
-  date: '2024-07-31'
-  link: https://doi.org/g89kwk
+  publisher: 2025 International Conference on Multimedia Analysis and Pattern Recognition
+    (MAPR)
+  date: '2025-08-14'
+  link: https://doi.org/g95wqq
   orcid: 0000-0002-7354-1524
   plugin: orcid.py
   file: orcid.yaml
@@ -1095,7 +1199,23 @@
   orcid: 0000-0002-7354-1524
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/icoin59985.2024.10572165
+- id: doi:10.1109/ICCE62051.2024.10634695
+  title: An Extended OVN Architecture for End-to-End QoS Guarantee in Network Slicing
+  authors:
+  - Thanh-Hai Pham
+  - Tuan-Anh Nguyen
+  - Dong Tran-Van
+  - Trung Vu-Thanh
+  - Nguyen Tai Hung
+  - Nguyen Huu Thanh
+  publisher: 2024 Tenth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2024-07-31'
+  link: https://doi.org/g89kwf
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICOIN59985.2024.10572165
   title: DGA-based Intrusion Detection System using Federated Learning Method on Edge
     Devices
   authors:
@@ -1109,7 +1229,40 @@
   orcid: 0000-0002-7354-1524
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/icoin59985.2024.10572125
+- id: doi:10.1109/ICCE62051.2024.10634714
+  title: Evaluation of Deployment Models for Microservices in an Edge-based Serverless
+    Environment
+  authors:
+  - Kien Nguyen
+  - Frank Loh
+  - "Tobias Ho\xDFfeld"
+  - Le Phuc Lai
+  - Truong Thu Huong
+  - Pham Ngoc Nam
+  - Nguyen Huu Thanh
+  publisher: 2024 Tenth International Conference on Communications and Electronics
+    (ICCE)
+  date: '2024-07-31'
+  link: https://doi.org/g89kwk
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CloudNet62863.2024.10815895
+  title: 'FaaSt: A Latency-Aware Serverless Scheme for Edge-Cloud Environments'
+  authors:
+  - Kien Nguyen
+  - Hiep Dao
+  - Tung Nguyen
+  - Frank Loh
+  - Nguyen Huu Thanh
+  - "Tobias Ho\u03B2feld"
+  publisher: 2024 IEEE 13th International Conference on Cloud Networking (CloudNet)
+  date: '2024-11-27'
+  link: https://doi.org/g89kwd
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICOIN59985.2024.10572125
   title: Investigation of Serverless Consumption and Performance in Multi-Access Edge
     Computing
   authors:
@@ -1123,6 +1276,24 @@
   date: '2024-01-17'
   link: https://doi.org/g89kxg
   orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3674213.3674215
+  title: On the Impact of Heterogeneity on Federated Learning at the Edge with DGA
+    Malware Detection
+  authors:
+  - Ma Viet Duc
+  - Nguyen Thanh Luan
+  - Nguyen Tien Tai
+  - Nguyen Pham Trung Hieu
+  - Nguyen Ngoc Minh
+  - Pham Trung Hieu
+  - Vu Hai
+  - Nguyen Huu Thanh
+  publisher: Proceedings of the 19th Asian Internet Engineering Conference
+  date: '2024-08-09'
+  link: https://doi.org/hbpjrz
+  orcid: 0009-0004-3329-2529
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/cicn59264.2023.10402136
@@ -1194,6 +1365,18 @@
   publisher: IEEE Access
   date: '2023-01-01'
   link: https://doi.org/g89kx6
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.51316/jst.166.ssad.2023.33.2.1
+  title: Two-Layers DDoS Attack Detection Model Using Machine Learning in Software
+    Defined Networking
+  authors:
+  - Ngoc Tuan Nguyen
+  - Huu Thanh Nguyen
+  publisher: Smart Systems and Devices
+  date: '2023-05-15'
+  link: https://doi.org/hbg9c4
   orcid: 0000-0002-7354-1524
   plugin: orcid.py
   file: orcid.yaml
@@ -1501,6 +1684,37 @@
   orcid: 0000-0002-7354-1524
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.48550/arxiv.1908.09766
+  title: A Hybrid of Adaptation and Dynamic Routing based on SDN for Improving QoE
+    in HTTP Adaptive VBR Video Streaming
+  authors:
+  - Hong Thinh Pham
+  - Ngoc Nam Pham
+  - Huu Thanh Nguyen
+  - Alan Marshall
+  - Thu Huong Truong
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/hb6v3j
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.1907.11887
+  title: 'Q-MIND: Defeating Stealthy DoS Attacks in SDN with a Machine-learning based
+    Defense Framework'
+  authors:
+  - Trung V. Phan
+  - T M Rayhan Gias
+  - Syed Tasnimul Islam
+  - Truong Thu Huong
+  - Nguyen Huu Thanh
+  - Thomas Bauschert
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/hb6v3k
+  orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/CCE.2018.8465747
   title: Integrating Trickle Timing in Software Defined WSNs for Energy Efficiency
   authors:
@@ -1569,8 +1783,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ATC.2017.8167618
-  title: 'AQA<sup>2</sup>: An analytical QoS-assessment approach for service function
-    chaining in cloud environment'
+  title: "AQA\n                    <sup>2</sup>\n                    : An analytical\
+    \ QoS-assessment approach for service function chaining in cloud environment"
   authors:
   - Trung V. Phan
   - Linh H. Ngo
@@ -2050,19 +2264,35 @@
   orcid: 0000-0002-7354-1524
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1145/3763400.3763445
-  title: Enabling Lightweight Split Inference for Real-Time Detection in Embedded
-    Traffic Cameras
+- id: doi:10.1109/icoin68469.2026.11480581
+  title: Energy-Aware Distributed Data-Center GPU Scheduling via Constrained Hybrid
+    SAC with Adaptive Frequency
   authors:
-  - Duc Viet Ma
+  - Ma Viet Duc
+  - Nguyen Dang Duong
+  - Nguyen Duc Huy
+  - Nguyen Duc Tuyen
+  - Nguyen Tai Hung
+  - Nguyen Huu Thanh
+  publisher: 2026 40th International Conference on Information Networking (ICOIN)
+  date: '2026-01-14'
+  link: https://doi.org/hb4n45
+  orcid: 0009-0004-3329-2529
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/mapr67746.2025.11133843
+  title: Unsupervised Malicious Domain Detection Using Auto-Encoder Models with Reconstruction
+    Error
+  authors:
+  - Ma Viet Duc
   - Truong Duc Truong
-  - Anh Thi Mai Cao
-  - Anh Tuan Nguyen
-  - Hai Vu
-  - Thanh Huu Nguyen
-  publisher: Proceedings of the 20th Asian Internet Engineering Conference
-  date: '2025-11-24'
-  link: https://doi.org/g97cmr
+  - Cao Thi Mai Anh
+  - Vu Hai
+  - Nguyen Huu Thanh
+  publisher: 2025 International Conference on Multimedia Analysis and Pattern Recognition
+    (MAPR)
+  date: '2025-08-14'
+  link: https://doi.org/g95wqq
   orcid: 0009-0004-3329-2529
   plugin: orcid.py
   file: orcid.yaml
