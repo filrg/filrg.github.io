@@ -61,6 +61,8 @@ The NS Team focuses on network security in healthcare applications of Federated 
   style="bare"
 %}
 
+{% endcapture %}
+
 {%
   include feature.html
   image="images/fil/nsteam/avatar.png"
@@ -69,8 +71,6 @@ The NS Team focuses on network security in healthcare applications of Federated 
   title="Network Security Team"
   text=text
 %}
-
-{% endcapture %}
 
 ## Highlights
 
