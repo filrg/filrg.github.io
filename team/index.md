@@ -49,6 +49,7 @@ Our team is a dynamic blend of faculty and students passionate about immersive m
   {% include list.html data="members" component="portrait" filter="role == 'grad'" %}
 </div>
 
+<!--
 ---
 
 ### Undergraduate Students
@@ -68,6 +69,7 @@ Our team is a dynamic blend of faculty and students passionate about immersive m
   {% include list.html data="members" component="portrait" filter="description == 'Cohort 69'" %}
   {% include list.html data="members" component="portrait" filter="description == 'Cohort 70'" %}
 </div>
+-->
 
 ---
 

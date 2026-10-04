@@ -94,7 +94,7 @@ For inquiries regarding **FIL Research Group (FILRG)**, please reach out to our 
 
 # {% include icon.html icon="fa-regular fa-envelope" %}**Join us**
 
-<form id="contactForm" method="POST" action="https://formsubmit.co/filrg.hr@husteduvn.onmicrosoft.com" enctype="multipart/form-data" style="max-width:600px; margin: 2em auto; display: flex; flex-direction: column; gap: 1em;">
+<form id="contactForm" method="POST" action="https://formsubmit.co/quang.nglong@gmail.com" enctype="multipart/form-data" style="max-width:600px; margin: 2em auto; display: flex; flex-direction: column; gap: 1em;">
   <label for="name">Your full name</label>
   <input type="text" name="name" id="name" required style="padding: 0.5em; font-size: 1em; border: 1px solid #ccc; border-radius: 4px; width: 100%" />
 

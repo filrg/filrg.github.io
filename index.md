@@ -25,7 +25,7 @@
 
 {% capture text %}
 
-The iVR Team conducts research on the delivery and optimization of advanced immersive media formats, including on-demand and live streaming of 360-degree video, volumetric video, and emerging representations such as neural radiance fields (NeRF). The team investigates adaptive streaming protocols, notably Dynamic Adaptive Streaming over HTTP (DASH), and focuses on enhancing the Quality of Experience (QoE) for users consuming immersive content.
+The iVR Team conducts research on the delivery and optimization of advanced immersive media formats, including on-demand and live streaming of 360-degree video, volumetric video, and emerging representations such as dynamic point cloud. The team investigates adaptive streaming protocols, notably Dynamic Adaptive Streaming over HTTP (DASH), and focuses on enhancing the Quality of Experience (QoE) for users consuming immersive content.
 
 {%
   include button.html
@@ -50,13 +50,24 @@ The iVR Team conducts research on the delivery and optimization of advanced imme
 
 {% capture text %}
 
+The NS Team focuses on network security in healthcare applications of Federated Learning (FL), particularly the investigation of poisoning attacks that compromise the integrity and reliability of collaborative model training. The team explores AI-based techniques to detect attacks and mitigate their impact, while developing and evaluating security solutions that enhance the robustness of FL systems, preserve data privacy, and ensure compliance with data protection regulations.
+
 {%
   include button.html
-  link="netsecteam"
+  link="nsteam"
   text="More details"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
+%}
+
+{%
+  include feature.html
+  image="images/fil/nsteam/avatar.png"
+  link="nsteam"
+  flip=true
+  title="Network Security Team"
+  text=text
 %}
 
 {% endcapture %}

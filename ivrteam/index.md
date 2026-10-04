@@ -9,7 +9,7 @@ nav:
 
 ## **Our research fields**
 
-The iVR Team conducts research on the delivery and optimization of advanced immersive media formats, including on-demand and live streaming of 360-degree video, volumetric video, and emerging representations such as neural radiance fields (NeRF). The team investigates adaptive streaming protocols, notably Dynamic Adaptive Streaming over HTTP (DASH), and focuses on enhancing the Quality of Experience (QoE) for users consuming immersive content.
+The iVR Team conducts research on the delivery and optimization of advanced immersive media formats, including on-demand and live streaming of 360-degree video, volumetric video, and emerging representations such as dynamic point cloud. The team investigates adaptive streaming protocols, notably Dynamic Adaptive Streaming over HTTP (DASH), and focuses on enhancing the Quality of Experience (QoE) for users consuming immersive content.
 
 {% include video.html
    video="videos/uol/stream.mpd"
