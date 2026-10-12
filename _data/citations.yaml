@@ -57,6 +57,20 @@
   orcid: 0009-0009-8395-6545
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/3822516.3834879
+  title: Improve Rendering of Dynamic 3D Meshes in WebVR Environments with QoE-aware
+    Level of Detail Adaptation
+  authors:
+  - Nguyen Thi Quynh Ly
+  - Duc V. Nguyen
+  - Truong Thu Huong
+  - ' Pham Ngoc Nam'
+  publisher: Proceedings of the 31st ACM International Conference on 3D Web Technology
+  date: '2026-10-12'
+  link: https://doi.org/hcm6fp
+  orcid: 0000-0002-6428-8539
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.4108/eetinis.132.12274
   title: A Novel Hybrid Transformer for RUL Prediction in Predictive Maintenance for
     Smart Manufacturing
@@ -1055,7 +1069,7 @@
     (ICCE)
   date: '2026-07-01'
   link: https://doi.org/hchtvx
-  orcid: 0000-0002-7354-1524
+  orcid: 0009-0004-3329-2529
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/icce70609.2026.11658407
@@ -2295,6 +2309,19 @@
   date: '2001-01-01'
   link: https://doi.org/dqgjfz
   orcid: 0000-0002-7354-1524
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/mapr72750.2026.11685759
+  title: "VietTayNMT: Directional LoRA for Low-Resource Vietnamese\u2013Tay Neural\
+    \ Machine Translation"
+  authors:
+  - Ma Viet Duc
+  - Nguyen Dang Duong
+  publisher: 2026 International Conference on Multimedia Analysis and Pattern Recognition
+    (MAPR)
+  date: '2026-08-01'
+  link: https://doi.org/hcm6fq
+  orcid: 0009-0004-3329-2529
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/icoin68469.2026.11480581
